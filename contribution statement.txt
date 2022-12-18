@@ -1,0 +1,9 @@
+Contribution Statement:
+
+For the contribution statement, we did almost all of the work together as it was hard to split the work between us. 
+
+For the scripts:
+Enemy, SpawnManager, GameManager, and MovePlayer scripts were coded by the two of us. The difficulty script was coded by Al-shaimaa and OpenLink script was done by Marwa.
+
+For the game:
+It was a work that both of us worked in, so most of the game features, UI, Scripting...etc were done equally.
